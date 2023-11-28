@@ -29,9 +29,5 @@ int main()
         cout << "try again\n";
         goto L;
     }
-    
-    
-    
-    
 }
 
